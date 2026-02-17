@@ -1,0 +1,18 @@
+{
+    "title": "Mathematics: Complex Numbers",
+    "slug": "maths-complex-numbers",
+    "description": "Introduction to complex numbers from a mathematical perspective. Covers the imaginary unit and the definition and representation of complex numbers in the form a + bi.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 3,
+    "prerequisites": [
+    ],
+    "related": [
+        "maths-complex-number-arithmetic",
+        "python-complex-numbers"
+    ]
+}
