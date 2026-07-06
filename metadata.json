@@ -13,6 +13,10 @@
     ],
     "related": [
         "maths-complex-number-arithmetic",
+        "maths-complex-conjugate",
+        "maths-complex-modulus",
+        "maths-complex-plane",
+        "maths-complex-polar-form",
         "python-complex-numbers"
     ]
 }
